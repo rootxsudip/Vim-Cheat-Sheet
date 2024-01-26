@@ -37,3 +37,13 @@
 `d$` - to the end of the line, INCLUDING the last character  
 `dd` - delete whole line  
 `2dd` - delete two lines  
+
+### Undo
+`u` - Undo the last commands  
+`U` - Fix a whole line  
+`CTRL-R` - Redo(undo the undos)  
+
+### Copy and Put/Paste
+`yy` - Copy a line  
+`p` - Put/Paste  
+`dd` - Cut/Delete  
