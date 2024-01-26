@@ -47,3 +47,13 @@
 `yy` - Copy a line  
 `p` - Put/Paste  
 `dd` - Cut/Delete  
+
+### Replace
+`r<character>` - Enter the in replace mode and change character  
+
+### Change
+`ce` - to change until the end of a word  
+The change operator works in the same way as delete  
+The format is:
+`c [number] motion`
+
