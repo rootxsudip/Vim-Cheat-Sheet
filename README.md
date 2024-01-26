@@ -57,3 +57,14 @@ The change operator works in the same way as delete
 The format is:
 `c [number] motion`
 
+## Search
+`/` - / followed by a text  
+`n` - search for the same text again  
+`N` - search for the same text again in the opposite direction  
+`CTRL-O` - To go back to where you came from  
+`CTRL-I` - Goes forward
+### Matching Parenthesis Search
+Place the cursor on any (, [, or {  
+`/<closing-parenthesis>` - Move the cursor to the other matching parenthesis
+
+
